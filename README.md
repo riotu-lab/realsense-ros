@@ -1,3 +1,5 @@
+# Systemtrio branch
+This branch is slightly modified to not have `librealsense2` as dependency in the `package.xml`, assunming it's installed from source. This branch corresponds to `realsense-ros` version `2.3.0`, which corresponds to Realsense SDK (librealsense) version `2.45`
 # ROS Wrapper for Intel&reg; RealSense&trade; Devices
 These are packages for using Intel RealSense cameras (D400 series SR300 camera and T265 Tracking Module) with ROS.
 
